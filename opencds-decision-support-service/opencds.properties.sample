@@ -1,0 +1,5 @@
+knowledge-repository.type=SIMPLE_FILE
+knowledge-repository.path=/var/lib/tomcat/webapps/opencds-decision-support-service/opencds-ice-service-data/src/main/resources
+config.security=/usr/local/apps/ice/sec.xml
+log4j.logfile=/usr/local/apps/ice/opencds.log
+km.threads=4
